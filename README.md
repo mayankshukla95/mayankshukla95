@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello 👋, I'm Mayank Shukla
 
-<!--
-**mayankshukla95/mayankshukla95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist**
 
-Here are some ideas to get you started:
+1. 🌱 I'm currently learning: Machine Learning, Python, SQL, Excel, Power BI, EDA, GenAI
+2. 📫 How to reach me: mayankshukla310@gmail.com
+3. ⚡ Fun fact: A Mechanical Engineer Turned To IT Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-shukla-9683072a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/yourprofile)
+
+## Languages and Tools:
+- Machine Learning
+- Python
+- SQL - MySQL
+- Excel
+- Power BI
+- EDA
+- GenAI
+- ETL(Basic) - SSIS,SSMS
